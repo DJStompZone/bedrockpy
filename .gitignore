@@ -1,0 +1,11 @@
+*.bak
+dist/
+.env
+__pycache__/
+poetry_cache/
+*.py[cdo]
+*.whl
+*.zip
+*.tar.gz
+venv/
+.venv/
